@@ -1,9 +1,7 @@
-# Sales Performance Analysis and Visualization in Tableau
-
-## Performance Overview Analysis for Workflow Office Essentials (2021-2025)
+# Performance Overview Analysis for Workflow Office Essentials (2021-2025)
 This project presents a comprehensive analysis of sales and profitability performance for Workflow Office Essentials, a leading office supply store. Leveraging historical transactional data from 2021 to early 2025, this analysis aimed to provide actionable insights into key business drivers, identify trends, and pinpoint areas for strategic improvement.
 
-### Data Description & Methodology
+## Data Description & Methodology
 The data consisted of 9,994 transactions ranging from January 2021 to March 2025. Within the dataset, variables were available describing the high-level product category (furntiture, office supplies, and technology), sub-category product descriptions (e.g., chairs, paper, phones), order date, customer segment (consumer, corporate, and home office), customer address, sales amount for each product, the discount applied to the product, and the profit generated from each product. Prior to the analysis, the sales and profit variables, which were initially stored as objects (string) due to the presence of currency symbols ('$') and percentage signs ('%'), were cleaned by removing these characters and converted to a float (numeric) data type to enable accurate calculations and aggregations in Tableau. The order date variable was parsed into its correct data type. 
 
 Visualization & Dashboarding (Tableau): Developing a suite of interactive and intuitive visualizations using Tableau. This involved creating:
@@ -13,7 +11,7 @@ Geographic Sales Overview: Dynamic maps displaying sales and profit by region, s
 Customer Segment Insights: Bar charts to compare the contribution of Consumer, Corporate, and Home Office segments to overall sales and profitability.
 Profitability Analysis: Scatter plots to evaluate the relationship between sales, profit ratio, and discount, uncovering potentially unprofitable product lines.
 
-### Key Findings:
+## Key Findings:
 
 ![](Dashboard.png)
 
@@ -55,7 +53,7 @@ Trend analysis data suggest sales growth for 2025 based on four years of transac
 
 Conclusions & Recommendations:
 
-### Recommendations:
+## Recommendations:
 
 This performance overview for Workflow Office Essentials provides a robust framework for data-driven decision-making. Based on the analysis, the following recommendations are suggested:
 
