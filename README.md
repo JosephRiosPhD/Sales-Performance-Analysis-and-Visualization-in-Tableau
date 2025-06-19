@@ -1,4 +1,4 @@
-# Sales-Performance-Analysis-and-Visualization-in-Tableau
+# Sales Performance Analysis and Visualization in Tableau
 
 ## Performance Overview Analysis for Workflow Office Essentials (2021-2025)
 This project presents a comprehensive analysis of sales and profitability performance for Workflow Office Essentials, a leading office supply store. Leveraging historical transactional data from 2021 to early 2025, this analysis aimed to provide actionable insights into key business drivers, identify trends, and pinpoint areas for strategic improvement.
@@ -56,8 +56,12 @@ Continuous Monitoring: The interactive dashboard serves as a vital tool for ongo
 
 
 ## Author
-* Joseph A. Rios, PhD
-* Senior Data Scientist
-* Website: [https://josephriosphd.carrd.co/]
-* LinkedIn: [www.linkedin.com/in/josephriosphd]
-* GitHub: [https://github.com/JosephRiosPhD]
+Joseph A. Rios, PhD
+
+Senior Data Scientist
+
+Website: [https://josephriosphd.carrd.co/]
+
+LinkedIn: [www.linkedin.com/in/josephriosphd]
+
+GitHub: [https://github.com/JosephRiosPhD]
