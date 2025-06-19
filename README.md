@@ -13,7 +13,9 @@ Geographic Sales Overview: Dynamic maps displaying sales and profit by region, s
 Customer Segment Insights: Bar charts to compare the contribution of Consumer, Corporate, and Home Office segments to overall sales and profitability.
 Profitability Analysis: Scatter plots to evaluate the relationship between sales, profit ratio, and discount, uncovering potentially unprofitable product lines.
 
-### Analysis & Key Findings:
+### Key Findings:
+
+![](Dashboard.png)
 
 The interactive Tableau dashboard developed for this project reveals several critical insights into Workflow Office Essentials' operational health and market dynamics:
 
