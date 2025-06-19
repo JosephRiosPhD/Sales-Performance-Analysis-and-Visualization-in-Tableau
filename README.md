@@ -56,8 +56,8 @@ Continuous Monitoring: The interactive dashboard serves as a vital tool for ongo
 
 
 ## Author
-Joseph A. Rios, PhD
-Senior Data Scientist
-Website: [https://josephriosphd.carrd.co/]
-LinkedIn: [www.linkedin.com/in/josephriosphd]
-GitHub: [https://github.com/JosephRiosPhD]
+* Joseph A. Rios, PhD
+* Senior Data Scientist
+* Website: [https://josephriosphd.carrd.co/]
+* LinkedIn: [www.linkedin.com/in/josephriosphd]
+* GitHub: [https://github.com/JosephRiosPhD]
