@@ -48,7 +48,7 @@ The correlation between Discount and Profit Ratio was explored, revealing a non-
 
 Project Sales for 2025:
 
-![](Projected Sales.png)
+![](ProjectedSales.png)
 
 Trend analysis data suggest sales growth for 2025 based on four years of transactional data. Specifically, a slow first quarter of 2025 is predicted, with sales bottoming out in January and February, while sales will remain stagnant in the second quarter. Greater sales are predicted in the third and fourth quarters, with peaks observed during the start of school in September and in the months of November and December, which coincide with Christmas shopping. 
 
