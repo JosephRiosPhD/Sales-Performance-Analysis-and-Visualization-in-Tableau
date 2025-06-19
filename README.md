@@ -55,7 +55,7 @@ Strategic Discounting: Implement a more disciplined discounting policy, especial
 Continuous Monitoring: The interactive dashboard serves as a vital tool for ongoing performance monitoring, allowing the Workflow Office Essentials team to track KPIs, identify new trends, and react swiftly to market changes.
 
 
-##Author
+## Author
 Joseph A. Rios, PhD
 Senior Data Scientist
 Website: [https://josephriosphd.carrd.co/]
