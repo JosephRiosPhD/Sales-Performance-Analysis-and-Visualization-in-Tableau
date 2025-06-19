@@ -1,4 +1,4 @@
-# Performance Overview Analysis for Workflow Office Essentials (2021-2025)
+# Performance Overview Analysis for Workflow Office Essentials
 This project presents a comprehensive analysis of sales and profitability performance for Workflow Office Essentials, a leading office supply store. Leveraging historical transactional data from 2021 to early 2025, this analysis aimed to provide actionable insights into key business drivers, identify trends, and pinpoint areas for strategic improvement.
 
 ## Data Description & Methodology
@@ -11,13 +11,13 @@ Geographic Sales Overview: Dynamic maps displaying sales and profit by region, s
 Customer Segment Insights: Bar charts to compare the contribution of Consumer, Corporate, and Home Office segments to overall sales and profitability.
 Profitability Analysis: Scatter plots to evaluate the relationship between sales, profit ratio, and discount, uncovering potentially unprofitable product lines.
 
-## Key Findings:
+## Key Findings
 
 ![](Dashboard.png)
 
 The interactive Tableau dashboard developed for this project reveals several critical insights into Workflow Office Essentials' operational health and market dynamics:
 
-Overall Sales & Profit Trends:
+### Overall Sales & Profit Trends:
 
 ![](SalesbyCategory.png)
 
@@ -25,26 +25,26 @@ Overall Sales & Profit Trends:
 
 Analysis of Sales and Profit over the period from 2021 to early 2025 demonstrates a generally consistent upward trend in sales, indicating healthy growth. As an example, sales increased by 56% from 2021 to 2024. A deep dive into product categories highlights that sales were primarily driven by technology products ($836,221), followed by furniture ($742,006) and office supplies ($719,127). The top five product subcategories with the most sales were chairs ($328,454), phones ($330,047), storage ($223,862), tables ($207,968), and binders ($203,428). These results suggest a need for re-evaluation of pricing, inventory, or promotional strategies for these items.
 
-Geographic Sales Distribution:
+### Geographic Sales Distribution:
 
 ![](SalesbyZipcode.png)
 
 The Sales by Zip Code map reveals distinct geographic hotspots, with the largest sales coming from major cities including New York City, Philadelphia, Washington D.C., Seattle, San Francisco, Los Angeles, San Diego, and Jacksonville. Although the largest sales came from coastal states, sales were represented across nearly all states in the U.S., with particular representation being high in Michigan, Indiana, Ohio, Georgia, and Texas. Conversely, certain areas, such as the Northwest, Southwest, and Northeast showed lower sales penetration, presenting potential opportunities for targeted marketing campaigns or new market expansion.
 
-Customer Segment Contributions:
+### Customer Segment Contributions:
 
 ![](SalesbyCustomerSegment.png)
 
 Analysis of customer segments (Consumer, Corporate, Home Office) indicates that the individual consumer segment accounts for the largest share of overall sales and profitability. Across all transactions, this segment accounted for $1.16 million in sales and $134,113 in profits. These totals were nearly double that of cthe orporate and home office segments. Understanding these differences is crucial for tailoring marketing messages and optimizing customer relationship management efforts.
 
 
-Discount Impact on Profitability:
+### Discount Impact on Profitability:
 
 ![](SalesbyDiscountPercent.png)
 
 The correlation between Discount and Profit Ratio was explored, revealing a non-associative relationship, which suggests that increasing or decreasing discount rates were not related to profits. With that noted, there were four product subcategories where providing a discount led to lost profits: machines (profit ratio: -8.2), bookcases (profit ratio: -28.9), machines (profit ratio: -47.2), and appliances (profit ratio: -73.0). This underscores the importance of a balanced discounting strategy to protect profitability. As an aside, the three subcategories with the highest profit ratios included labels (profit ratio: 156.7), accessories (profit ratio: 169.1), and art (profit ratio: 200.7).
 
-Project Sales for 2025:
+### Project Sales for 2025:
 
 ![](ProjectedSales.png)
 
